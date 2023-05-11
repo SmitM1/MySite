@@ -52,6 +52,9 @@ a{
     padding:1%;
     text-decoration:none;
 }
+a:hover{
+    color:white;
+}
 .skill-row{
     width:50%;
     margin:100px auto 100px auto;
@@ -107,4 +110,6 @@ a{
   }
   .foot-name{
     margin-top:2%; 
+    font-size:0.75rem;
+    color:white;
   }
